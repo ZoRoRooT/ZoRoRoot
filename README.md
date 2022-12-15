@@ -7,9 +7,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZoRoRooT](https://github.com/ZoRoRooT)
 
-- 📫 How to reach me **sudarshan_n@hotmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **sudarshan_n@hotmail.com**
 <p align="left">
 </p>
 
